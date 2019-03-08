@@ -1,0 +1,4 @@
+// common.js
+jQuery(function($){
+
+});
